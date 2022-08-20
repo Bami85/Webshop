@@ -5,7 +5,7 @@
 
 Github: https://github.com/Bami85/Webshop
 
-admin:admin@admin.se
+admin:admin@gmail.com
 password:admin
 
 Kravspecifikation på projektet:
