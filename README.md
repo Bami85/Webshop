@@ -32,7 +32,7 @@ Kravspecifikation på projektet:
 
  11.Administratörer ska kunna uppdatera antalet produkter i lager från admin delen av sidan (G) ✅
 
- 12.Administratörer ska kunna se en lista på alla gjorda beställningar (G)
+ 12.Administratörer ska kunna se en lista på alla gjorda beställningar (G)✅
 
  13.Sidans produkter ska delas upp i kategorier, en produkt ska tillhöra minst en kategori, men kan tillhöra flera (G) ✅
 
