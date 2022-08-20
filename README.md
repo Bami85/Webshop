@@ -5,6 +5,9 @@
 
 Github: https://github.com/Bami85/Webshop
 
+admin:admin@admin.se
+password:admin
+
 Kravspecifikation på projektet:
 
  1.Alla sidor skall vara responsiva. (G) ✅
